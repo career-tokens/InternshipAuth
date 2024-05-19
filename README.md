@@ -2,6 +2,9 @@
 
 This is a simple MERN stack application mainly focused on Authentication using JWT tokens.
 
+### The code is not deployed coz the backend services are mostly paid. Render tho allows a free tier has lot of sleeping time so please make sure to check out the video to know about the project
+https://vimeo.com/947855918?share=copy
+
 ### This project has DRAUL properties.
 
 ### D for Dark/Light Mode Toggler is present
